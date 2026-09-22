@@ -1,1 +1,1 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/andbiz/teaching-coding)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/andbiz/teaching-coding?ref=2026)
