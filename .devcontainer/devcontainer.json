@@ -1,0 +1,17 @@
+{
+  "name": "JavaScript Course",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ayush0210.codecanvasvisual",
+        "esbenp.prettier-vscode",
+        "ms-vsliveshare.vsliveshare"
+      ],
+      "settings": {
+        "codedraw.openMode": "Half Window"
+      }
+    }
+  },
+  "postCreateCommand": "npm install"
+}
