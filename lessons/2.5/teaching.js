@@ -1,15 +1,20 @@
 // let age = 20;
-// age = 21; // birthday
 
+// 1
+// birthday: age should now be 21
+
+// 2
 // console log before and after the change to see what happens to age
 
+// 3
 // see with debugger what happens to age
 
-// let age = 20;
-// age = age + 1; // this is mathematically nonsense
+// 4
+// increment age instead of assigning a new value
 
-// debugger to see the steps what happens to age
-// see the debugger is evaluating age + 1: review the complete flow
+// 5
+// debugger to see what happens to age
 
+// 6
 // let x = x + 1; 
 // why this will be always wrong?

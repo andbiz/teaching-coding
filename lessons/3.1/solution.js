@@ -2,12 +2,14 @@
 // create two variables called name and surname
 // their values should be your name and surname
 // use both syntaxes
+// let name = "Andrea";
+// let surname = "Bizzego";
 
 // 2 - mixing brackets
 // what happens if you mix the brackets?
-// let name = "Andrea';
-// let name = "'Andrea'"
-// let name = '"Andrea"'
+// let name = "Andrea'; // syntax error: missing closing quote
+// let name = "'Andrea'" // valid string, value is 'Andrea'
+// let name = '"Andrea"' // valid string, value is "Andrea"
 
 // 3 - Strings vs Identifiers
 // here I read the value of the variable Andrea, and assign it to the variable name
@@ -15,6 +17,8 @@
 
 // 4 - String concatenation
 // create a variable called fullName that is the concatenation of name and surname
+// let fullName = name + surname;
+// console.log(fullName);
 
 // 5 - The + operator
 // with numbers, the + operator is used for addition
@@ -36,3 +40,12 @@
 // 7 - A more complex message
 // create a variable called message that is a string that contains your name, surname and age:
 // "Hello, my name is Andrea Bizzego and I am 20 years old."
+
+// let message =
+//   "Hello, my name is " +
+//   name +
+//   " " +
+//   surname +
+//   " and I am " +
+//   age +
+//   " years old.";

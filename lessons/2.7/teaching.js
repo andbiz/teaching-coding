@@ -3,7 +3,6 @@
 // what are the key data?
 // what are the key operations?
 
-
 // 2
 // data --> variables
 // operations --> operators

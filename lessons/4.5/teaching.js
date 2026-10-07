@@ -7,7 +7,6 @@ console.log(r);
 // what is the range of values returned by Math.random()?
 // what is the type of the value returned by Math.random()?
 
-
 // 3
 console.log(Math.floor(3.44));
 console.log(Math.floor(8.71));
@@ -31,7 +30,6 @@ let randomBetweenMinAndMax = Math.floor(Math.random() * (max - min)) + min
 
 // 7
 // random head or tail
-
 
 // 8 
 // useful Math constants
