@@ -1,4 +1,5 @@
-// 1 - given a string (e.g. "hello") create a new string composed of asterisks with the same number of characters
+// 1 - given a string (e.g. "hello") create a new string composed of asterisks
+// with the same number of characters
 // e.g. "hello" -> "*****"; "dog" -> "***"
 // see if a method can help you with that
 
@@ -32,5 +33,5 @@ let surname = 'Bizzego';
 let message = ' [abc]  ';
 message = message.trim();
 
-// STUDENT: what is this doing?
+// what is this doing?
 // See inline help!!!

@@ -1,6 +1,7 @@
 // 1 - toUpperCase
-// we apply the procedure; we apply the procedure and print the result
+// we apply the procedure;
 'Andrea'.toUpperCase()
+// we apply the procedure and print the result
 console.log('Andrea'.toUpperCase())
 
 // Try with your own name
