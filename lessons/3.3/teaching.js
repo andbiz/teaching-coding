@@ -20,8 +20,14 @@
 
 // 5
 // instead of replacing with asterisks, remove the bad word from the message
+// [coding as problem solving, not just as remembering syntax]
 
 // 6
+// use inline help to see what trim does
+let message = ' [abc]  ';
+message = message.trim();
+
+// 7
 // fiscal code: extract the first three consonants from a surname
 let surname = 'Bizzego';
 
@@ -33,7 +39,3 @@ let surname = 'Bizzego';
 // What happens with surnames with only two consonants? 'Tosi'
 // (we cannot manage this case now)
 
-// 7
-// use inline help to see what trim does
-let message = ' [abc]  ';
-message = message.trim();

@@ -31,7 +31,17 @@ let randomBetweenMinAndMax = Math.floor(Math.random() * (max - min)) + min
 // 7
 // random head or tail
 
-// 8 
+// 8
+// random d6 roll
+// compute hasWon variable which is true when the roll is 6, false otherwise
+// print hasWon
+
+// 9
+// correct step by step
+// test with literals (all significant cases)
+// test with random numbers, but check the generated number (console.log or debugger)
+
+// 10 
 // useful Math constants
 let radius = 10;
 let area = radius**2 * Math.PI;
